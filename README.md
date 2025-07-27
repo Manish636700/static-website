@@ -1,10 +1,5 @@
-Great Manish! You want to **deploy a static website to AWS S3 using Jenkins** — I’ll walk you through **exactly what you need to do**, step by step.
 
----
-
-## ✅ What You Need
-
-Before starting, make sure:
+Before starting Deploy Static Website to AWS S3 using Jenkins Pipeline, make sure:
 
 1. ✅ **Static website project** (HTML, CSS, JS) ready
 2. ✅ Pushed to **GitHub repo**
