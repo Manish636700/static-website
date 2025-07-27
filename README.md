@@ -172,12 +172,3 @@ Now your deployment will trigger automatically when code is pushed.
 GitHub Repo (HTML/CSS/JS) ➜ Jenkins ➜ AWS S3 (Live Website)
 ```
 
----
-
-Do you want me to:
-
-* Help you build the GitHub repo structure?
-* Setup this on a fresh Jenkins server (via Ansible)?
-* Add CloudFront or a custom domain (Route 53)?
-
-Let me know!
