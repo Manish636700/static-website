@@ -5,7 +5,7 @@ on:
    branches:
      - main
 env:
- BUCKET_NAME: my-first-bucket-12
+ BUCKET_NAME: my-first-bucker-12
  REGION: ap-south-1
  
 jobs:
