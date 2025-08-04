@@ -25,4 +25,4 @@ jobs:
 
    - name: Deploy static files to s3
      run: |
-       aws s3 sync . s3:// ${{ env.BUCKET_NAME }} --delete
+       aws s3 sync . s3://${{ env.BUCKET_NAME }} --delete
